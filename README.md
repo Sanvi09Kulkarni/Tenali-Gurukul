@@ -1,8 +1,6 @@
-# Welcome 
+# Welcome to Tenali Gurukul
 
-# Tenali Gurukul
-
-A modern web application built using [Node.js](https://nodejs.org) / [React](https://reactjs.org) (adjust based on your app). This project is bootstrapped with npm and can be easily run in your local development environment.
+A modern web application built using [Node.js](https://nodejs.org) / [React](https://reactjs.org) . This project is bootstrapped with npm and can be easily run in your local development environment.
 
 ## Prerequisites
 
